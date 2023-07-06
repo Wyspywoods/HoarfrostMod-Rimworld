@@ -1,0 +1,14 @@
+<MapConditionDefs>
+
+  <MapConditionDef>
+    <defName>ColdSnap</defName>
+    <conditionClass>Hoarfrost.MapCondition_ColdSnap</conditionClass>
+    <label>cold snap</label>
+    <description>An unusual cold snap is freezing the region.</description>
+    <endMessage>The cold snap is over.</endMessage>
+    <exclusiveConditions>
+      <li>HeatWave</li>
+    </exclusiveConditions>
+  </MapConditionDef>
+    
+</MapConditionDefs>

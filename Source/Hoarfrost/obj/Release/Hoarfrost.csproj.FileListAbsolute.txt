@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hoarfrost\Hoarfrost\obj\Release\Hoarfrost.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hoarfrost\Hoarfrost\obj\Release\Hoarfrost.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hoarfrost\Hoarfrost.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hoarfrost\Hoarfrost.pdb
+C:\Users\Willowisp\Desktop\1_A_RIMWORLD\1B RIMWORLD MODDING------\1A FINAL MOD COPIES PREPUBLISH\[14A] Hoarfrost\Source\Hoarfrost\obj\Release\Hoarfrost.csprojResolveAssemblyReference.cache
+C:\Users\Willowisp\Desktop\1_A_RIMWORLD\1B RIMWORLD MODDING------\1A FINAL MOD COPIES PREPUBLISH\[14A] Hoarfrost\Source\Hoarfrost\obj\Release\Hoarfrost.dll
+C:\Users\Willowisp\Desktop\1_A_RIMWORLD\1B RIMWORLD MODDING------\1A FINAL MOD COPIES PREPUBLISH\[14A] Hoarfrost\Source\Hoarfrost\obj\Release\Hoarfrost.pdb
+C:\Users\Willowisp\Desktop\1_A_RIMWORLD\1B RIMWORLD MODDING------\1A FINAL MOD COPIES PREPUBLISH\[14A] Hoarfrost\Hoarfrost.dll
+C:\Users\Willowisp\Desktop\1_A_RIMWORLD\1B RIMWORLD MODDING------\1A FINAL MOD COPIES PREPUBLISH\[14A] Hoarfrost\Hoarfrost.pdb
